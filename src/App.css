@@ -1,0 +1,74 @@
+.main{
+  height: 100%;
+  padding-left: 3%;
+  padding-right: 3%;
+  align-items: center;
+}
+
+
+
+  /* header */
+.Header{
+position: absolute;
+width: 1660px;
+height: 1000px;
+left: 0px;
+top: 0px;
+
+}
+
+/* menu */
+.Menu{
+  position: absolute;
+width: 1400px;
+height: 42px;
+left: 260px;
+top: 25px;
+}
+
+.Text{
+  /* Home         Adversite          Supports          Marketing   */
+
+position: absolute;
+width: 502px;
+height: 33px;
+left: 709px;
+top: 28.5px;
+
+font-family: 'FontAwesome';
+font-size: 16px;
+line-height: 33px;
+/* identical to box height, or 206% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #02073E;
+
+
+}
+
+/* button */
+.button{
+
+position: absolute;
+width: 112px;
+height: 42px;
+left: 1548px;
+top: 25px;
+
+
+}
+
+
+.logo{
+  /* logo */
+
+position: absolute;
+width: 141px;
+height: 24px;
+left: 260px;
+top: 31px;
+
+
+}
